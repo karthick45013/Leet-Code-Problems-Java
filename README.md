@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0605-can-place-flowers) |
+| [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->

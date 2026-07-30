@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2942-find-words-containing-character) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1920-build-array-from-permutation](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->

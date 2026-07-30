@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |

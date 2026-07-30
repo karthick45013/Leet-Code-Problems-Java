@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0605-can-place-flowers) |
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Counting
 |  |
 | ------- |

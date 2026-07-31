@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

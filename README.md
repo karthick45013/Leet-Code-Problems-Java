@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0605-can-place-flowers) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

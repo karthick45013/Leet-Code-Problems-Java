@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |

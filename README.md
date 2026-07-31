@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

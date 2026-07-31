@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |

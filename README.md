@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |

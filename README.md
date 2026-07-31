@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |
 | [3668-restore-finishing-order](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/3668-restore-finishing-order) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |

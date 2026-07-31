@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/0171-excel-sheet-column-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karthick45013/Leet-Code-Problems-Java/tree/master/2894-divisible-and-non-divisible-sums-difference) |
